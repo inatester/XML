@@ -1,1 +1,6 @@
-
+<bug report>
+<summary>The add to cart button on the product page does not work</summary>
+<steps>Go to the website, go to the product page, click on the button put the product in the cart</steps>
+<expected result>The product gets into the basket</expected result>
+<actual result>The product is not in the cart</actual result>
+</bug report>
